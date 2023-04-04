@@ -1,8 +1,11 @@
 ### Olá! Eu sou a Maiana Soares 🌻
 
 🔭 Estou passando por uma transição de carreira onde decidi seguir meu sonho de trabalhar com programação!
+</br>
 🌱 Dev Front-end Jr. HTML|CSS|JAVASCRIPT|REACT.JS
+</br>
 😄 Pronomes: Ela/dela
+</br>
 ⚡ Algumas coisinhas sobre mim é que sempre fui apaixonada por tecnogia, artes, videogames e o mundo dos animes e quadrinhos 
 
 <div align="center">
