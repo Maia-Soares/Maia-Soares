@@ -1,12 +1,13 @@
 ### Olá! Eu sou a Maiana Soares 🌻
 
-🔭 Estou passando por uma transição de carreira onde decidi seguir meu sonho de trabalhar com programação!
+<div>🔭 Formanda em Arquitetura e Urbanismo, estou buscando trilhar meu caminho na área de TI, atuando no momento como Desenvolvedora Front-End. Como arquiteta e urbanista, adquiri a experiência com trabalho em equipe, comunicação, atenção aos detalhes, responsabilidade pessoal, proatividade. Meu caminho estudando na área de programação começou há 5 meses, buscando me aperfeiçoar na área de FrontEnd, focando o estudo em JAVASCRIPT e de frameworks que utiliza essa linguagem.</div>
 </br>
 🌱 Dev Front-end Jr. HTML|CSS|JAVASCRIPT|REACT.JS
 </br>
 😄 Pronomes: Ela/dela
 </br>
-⚡ Algumas coisinhas sobre mim é que sempre fui apaixonada por tecnogia, artes, videogames e o mundo dos animes e quadrinhos 
+⚡ Algumas coisinhas sobre mim é que sempre fui apaixonada por tecnogia, artes, videogames e o mundo dos animes e quadrinhos.
+</br>
 
 <div align="center">
   <a href="https://github.com/Maia-Soares">
